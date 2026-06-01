@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 
 const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:3001";
-const API_KEY = import.meta.env.VITE_API_KEY || "";
+const API_KEY = import.meta.env.VITE_API_KEY || "shopbot2024";
 
 const api = async (path, method = "GET", body = null) => {
   const opts = {

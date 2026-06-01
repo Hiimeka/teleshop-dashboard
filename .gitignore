@@ -1,6 +1,0 @@
-node_modules/
-.env
-database/db.json
-dashboard/node_modules/
-dashboard/dist/
-*.log

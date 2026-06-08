@@ -1,0 +1,12 @@
+[
+  {
+    "id": "usr_1780875588078",
+    "username": "admin",
+    "password": "bf189d385a249959407764e2ddc8ef66facfd54962da872d676d13f06a0087c7",
+    "role": "admin",
+    "created_at": 1780875588080,
+    "created_by": "system",
+    "active": true,
+    "last_login": null
+  }
+]

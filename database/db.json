@@ -1,0 +1,14 @@
+{
+  "products": [],
+  "orders": [],
+  "stock": [],
+  "triggers": [],
+  "telegram_users": [],
+  "sales": [],
+  "payment_info": null,
+  "settings": {
+    "auto_order": false
+  },
+  "access_logs": [],
+  "user_states": {}
+}
